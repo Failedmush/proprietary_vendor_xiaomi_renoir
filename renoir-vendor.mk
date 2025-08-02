@@ -560,6 +560,7 @@ PRODUCT_PACKAGES += \
     libmibokeh_855 \
     libmibokeh_mask_dsp \
     libmiphone_preview_bokeh \
+    libQnnHtpStub \
     libmm-color-convertor \
     libmmcamera_bestats \
     libmmcamera_cac3 \
